@@ -9,7 +9,9 @@ The dataset Google-Playstore.csv has a size of 676 MB and was downloaded from Ka
 
 # Libraries
 Pandas 2.2.2
+
 Polars 0.20.26
+
 Duckdb 0.10.2
 
 # Results
