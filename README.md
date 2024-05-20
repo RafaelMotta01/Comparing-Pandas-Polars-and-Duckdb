@@ -18,13 +18,17 @@ Duckdb 0.10.2
 For the ingestion of the dataset to python both Polars and Duckdb are a superior option in time and optimization with duckdb being the best. While pandas took almost 17 seconds to read the dataset, polars took only half a second and duckdb even less with 0.16 seconds.
 
 The Results are the following:
+
 Pandas Exec
+
 ![pandas](https://github.com/RafaelMotta01/Comparing-Pandas-Polars-and-Duckdb/assets/167834271/7aa816a5-d472-44d3-8350-343af750e9c2)
 
 Polars Exec
+
 ![polars](https://github.com/RafaelMotta01/Comparing-Pandas-Polars-and-Duckdb/assets/167834271/07f07676-a000-4848-9c9d-2e1c8e1b76aa)
 
 Duckdb Exec
+
 ![duckdb](https://github.com/RafaelMotta01/Comparing-Pandas-Polars-and-Duckdb/assets/167834271/aca80a59-b2cf-43fc-81c2-c24e9a3ad4de)
 
 # Conclusion
