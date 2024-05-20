@@ -32,7 +32,7 @@ Duckdb Exec
 ![duckdb](https://github.com/RafaelMotta01/Comparing-Pandas-Polars-and-Duckdb/assets/167834271/aca80a59-b2cf-43fc-81c2-c24e9a3ad4de)
 
 # Conclusion
-Not only Duckdb is a higher-speed option for heavy workloads but is also a better performance than the others. Also it has a built in sql query language for data analyses which can be by itself is a big help when dealing with large datasets and does not require other dependencies to download in python.
+Not only Duckdb is a higher-speed option for heavy workloads but is also a better performance than the others. Also it has a built in sql query language for data analysis which can be by itself is a big help when dealing with large datasets and does not require other dependencies to download in python.
 
 As for the apps listed on the dataset:
 Since the variable "Installs" dont show especific numbers, only agreggations (ex: 5.000+, 10.000+), we won't be able to find an exactly most downloaded app. Also the only app with 10,000,000,000+ its the google play app itself we can disconsider it 
